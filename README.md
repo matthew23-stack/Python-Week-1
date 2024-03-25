@@ -92,3 +92,5 @@ Week summary
 Python is a highly popular dynamic programming language used by numerous large organizations, such as Google, Yahoo, and IBM. It is compatible with all major operating systems and often comes pre-installed on Macs, as well as most Linux and Unix-based systems.
 
 Python is a widely popular introductory programming language due to its intuitive syntax, ease of use, and similarity to other programming languages. This course covered the foundations of Python and worked up the knowledge and skills that will give you a strong programming background
+
+# Python-Week-2
