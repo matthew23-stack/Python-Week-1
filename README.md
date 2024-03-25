@@ -1,5 +1,6 @@
-# Python-Week-1
+# Python
 
+# Python-Week-1
 Setting up the PC and installing the correct software on it and got to learn abit more about the computers work. Learned that Python is one of the simply languages to learn unlike Java and JavaScript. Installed VS code and PyCharm to use throughout the year while working with Python. Learned what python comments symbol is. Sorted out Jupyter Notebook on my broswer. 
 
 Variables
