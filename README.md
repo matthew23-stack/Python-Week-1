@@ -119,3 +119,9 @@ Finally statements can be useful because they will always execute no matter what
 Catching Exceptions by Type
 Notice that you are always catching this exception class. You could add another except statement above this and chain these together just fine. 
 We are going to catch the zero division specifically. There was a zero division error, and now that prints out. A type error statement can also be added, except type error and printed. But of course, there was a zero division error, not a type error. 
+Reading Files
+Watching output being printed to the screen is all well and great, but often as programmers, we are asked to produce something real, something tangible, usually for those management types that want to see a physical file they can attach to email or open in Excel or whatever it is they do with files.
+Writing Files
+We're going to open this file in the read mode and if we print f at this point, we get a file object. And there are a couple of ways to get the actual text inside the file. And the first is readline, so f.readline. 
+Appending Files
+Let's look at writing files. We are going to do something similar to this but instead of an R, use a W for write. We are also going to call this output.txt, which does not exist yet, but when we run this, it will create the file for us which is a pretty nice feature. 
